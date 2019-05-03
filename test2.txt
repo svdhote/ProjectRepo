@@ -1,0 +1,12 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 0CAA-1F8C
+
+ Directory of C:\Users\shubhadh\Desktop\Project
+
+05/03/2019  10:37 AM    <DIR>          .
+05/03/2019  10:37 AM    <DIR>          ..
+05/03/2019  10:24 AM               355 index.html
+05/03/2019  10:24 AM               404 test.txt
+05/03/2019  12:40 PM                 0 test2.txt
+               3 File(s)            759 bytes
+               2 Dir(s)  210,756,497,408 bytes free
